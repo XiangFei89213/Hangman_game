@@ -11,7 +11,7 @@ A Hangman game running on an FPGA, built as a hardware/software co-design projec
 
 ## What This Project Demonstrates
 
-https://youtube.com/shorts/lrJX3QTv9aU
+[![Hangman demo](demo_thumbnail.png)](https://youtube.com/shorts/lrJX3QTv9aU)
 
 1. **HW/SW co-design** — I wrote both the RTL for a custom video peripheral *and* the C++ driver tha t controls it, so I understand the register-map contract from both sides.
 2. **Memory-mapped peripheral integration** — adding a custom core into an existing pixel pipeline means conforming to its bus and streaming contracts.
